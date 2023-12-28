@@ -1,4 +1,4 @@
-# typescript-challenge
+# typescript-test-uniting
 
 ## 開發環境
 
