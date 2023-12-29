@@ -15,6 +15,7 @@ export function formatDate(date: Date): string {
     return `${year}-${month}-${day}`;
 }
 
+
 /**
  * 任務：實作一個函式 `roundNumber`，將數字四捨五入到最接近的整數。
  *
